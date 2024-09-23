@@ -1,4 +1,4 @@
-7# 🎨 Random Color Generator
+# 🎨 Random Color Generator
 
 Welcome to the **Random Color Generator**! This project allows users to generate random colors with ease and get the corresponding HEX codes for use in any design, web, or app project. Whether you're a designer, developer, or just experimenting with colors, this tool will inspire creativity with a click of a button.
 
